@@ -154,7 +154,15 @@ a {
   box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;
   margin-bottom: 32px;
 }
-
+.section-block-reverse {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 32px 24px;
+  width: 100%;
+  height: auto;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;
+  margin-bottom: 32px;
+}
 .section-image {
   width: 100%;
   height: auto;
@@ -167,6 +175,9 @@ a {
   margin-bottom: 16px;
 }
 .section-text {
+  text-align: center;
+}
+.section-text-reverse {
   text-align: center;
 }
 
